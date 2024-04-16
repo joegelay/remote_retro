@@ -6,7 +6,7 @@ export default () => (
     <div className="ui basic segment">
       <ul className="ui list">
         <li>
-          Apply votes to the items you feel are <strong>most important</strong>
+          Apply votes to the items you feel are <strong>most important </strong>
           for the team to discuss.
         </li>
         <li>
